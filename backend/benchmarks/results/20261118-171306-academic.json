@@ -1,0 +1,14 @@
+[
+ {
+  "file": "math_unicode.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "academic",
+  "cer": 0.13953488372093023,
+  "wer": 0.46153846153846156,
+  "seconds": 127.8,
+  "flagged_words": 9,
+  "hyp": "x2 + y2 = z2\nE = mc2\nH2O and CO2 are common",
+  "notes": []
+ }
+]

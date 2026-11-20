@@ -1,0 +1,13 @@
+.venv/
+node_modules/
+.next/
+__pycache__/
+.pytest_cache/
+data/
+models/
+*.log
+*.err
+shots/
+*.tsbuildinfo
+.netlify/
+.env*

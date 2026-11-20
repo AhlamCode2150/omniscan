@@ -1,0 +1,14 @@
+[
+ {
+  "file": "fr_clean.png",
+  "lang": "fr",
+  "detected": "fr",
+  "mode": "printed",
+  "cer": 0.02666666666666667,
+  "wer": 0.06666666666666667,
+  "seconds": 9.5,
+  "flagged_words": 0,
+  "hyp": "Le café de l'été est très agréable à Genève.\nOù êtes-vous allés hier soir",
+  "notes": []
+ }
+]

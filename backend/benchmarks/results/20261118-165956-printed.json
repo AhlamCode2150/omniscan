@@ -1,0 +1,14 @@
+[
+ {
+  "file": "table_grid.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.6833333333333333,
+  "wer": 0.5,
+  "seconds": 6.6,
+  "flagged_words": 0,
+  "hyp": "Item\nPencil\nNotebook\nEraser\nQty Price\n12 3.40\n5 12.00\n8 1.60",
+  "notes": []
+ }
+]

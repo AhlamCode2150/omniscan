@@ -1,0 +1,14 @@
+[
+ {
+  "file": "en_clean.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 13.5,
+  "flagged_words": 0,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dollars.\nPlease send the signed contract to the office before Friday.",
+  "notes": []
+ }
+]

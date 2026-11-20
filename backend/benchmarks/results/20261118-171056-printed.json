@@ -1,0 +1,222 @@
+[
+ {
+  "file": "ar_clean.png",
+  "lang": "ar",
+  "detected": "ar",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 4.7,
+  "flagged_words": 5,
+  "hyp": "القاهرة هي عاصمة مصر\nالطقس جميل اليوم",
+  "notes": []
+ },
+ {
+  "file": "de_clean.png",
+  "lang": "de",
+  "detected": "de",
+  "mode": "printed",
+  "cer": 0.025,
+  "wer": 0.07142857142857142,
+  "seconds": 3.8,
+  "flagged_words": 1,
+  "hyp": "Die S Straße ist heute wegen Bauarbeiten gesperrt.\nMüller & Söhne öffnen um 9 Uhr.",
+  "notes": []
+ },
+ {
+  "file": "en_blurry.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.04142011834319527,
+  "wer": 0.03333333333333333,
+  "seconds": 4.0,
+  "flagged_words": 0,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 d\nPlease send the signed contract to the office before Friday.",
+  "notes": []
+ },
+ {
+  "file": "en_clean.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 3.8,
+  "flagged_words": 0,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dollars.\nPlease send the signed contract to the office before Friday.",
+  "notes": []
+ },
+ {
+  "file": "en_lowres.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.01775147928994083,
+  "wer": 0.03333333333333333,
+  "seconds": 5.4,
+  "flagged_words": 1,
+  "hyp": "The quick brown fox  jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dolla\nPlease send the signed contract to the office before Friday.",
+  "notes": []
+ },
+ {
+  "file": "en_perspective_photo.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.005917159763313609,
+  "wer": 0.03333333333333333,
+  "seconds": 4.1,
+  "flagged_words": 1,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dollars\nPlease send the signed contract to the office before Friday.",
+  "notes": []
+ },
+ {
+  "file": "en_rotated.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 3.6,
+  "flagged_words": 0,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dollars.\nPlease send the signed contract to the office before Friday.",
+  "notes": []
+ },
+ {
+  "file": "es_clean.png",
+  "lang": "es",
+  "detected": "es",
+  "mode": "printed",
+  "cer": 0.0273972602739726,
+  "wer": 0.07692307692307693,
+  "seconds": 4.1,
+  "flagged_words": 2,
+  "hyp": "El niño comió piñas en la montaña.\n¿Dónde está la biblioteca más s cercana?",
+  "notes": []
+ },
+ {
+  "file": "fr_clean.png",
+  "lang": "fr",
+  "detected": "fr",
+  "mode": "printed",
+  "cer": 0.02666666666666667,
+  "wer": 0.06666666666666667,
+  "seconds": 4.2,
+  "flagged_words": 0,
+  "hyp": "Le café de l'été est très agréable à Genève.\nOù êtes-vous allés hier soir",
+  "notes": []
+ },
+ {
+  "file": "hw_cursive_synthetic.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "handwriting",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 127.8,
+  "flagged_words": 0,
+  "hyp": "Dear Sam, thanks for the notes from Tuesday.  \nMeet me at 4:30 near the old library.   Bring the red folder and two pens.",
+  "notes": [
+   "Handwriting was transcribed by a single vision-language model. It provides no per-word confidence and was not independently verified; words marked [?] were declared illegible by the model."
+  ]
+ },
+ {
+  "file": "hw_inkfree_synthetic.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "handwriting",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 108.2,
+  "flagged_words": 0,
+  "hyp": "Dear Sam, thanks for the notes from Tuesday.  \nMeet me at 4:30 near the old library.  \nBring the red folder and two pens.",
+  "notes": [
+   "Handwriting was transcribed by a single vision-language model. It provides no per-word confidence and was not independently verified; words marked [?] were declared illegible by the model."
+  ]
+ },
+ {
+  "file": "ja_clean.png",
+  "lang": "zh",
+  "detected": "zh",
+  "mode": "printed",
+  "cer": 0.037037037037037035,
+  "wer": null,
+  "seconds": 6.0,
+  "flagged_words": 22,
+  "hyp": "今日はとても良い天気です。\n明日は東京で会議があります",
+  "notes": []
+ },
+ {
+  "file": "ko_clean.png",
+  "lang": "ko",
+  "detected": "ko",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": null,
+  "seconds": 5.7,
+  "flagged_words": 16,
+  "hyp": "오늘은 날씨가 아주 좋습니다.\n내일 서울에서 회의가 있습니다.",
+  "notes": []
+ },
+ {
+  "file": "math_unicode.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.13953488372093023,
+  "wer": 0.46153846153846156,
+  "seconds": 3.6,
+  "flagged_words": 9,
+  "hyp": "x2 + y2 = z2\nE = mc2\nH2O and CO2 are common",
+  "notes": []
+ },
+ {
+  "file": "pdf_scanned_2p.pdf",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 9.9,
+  "flagged_words": 5,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dollars.\nPlease send the signed contract to the office before Friday.\n\nDie Straße ist heute wegen Bauarbeiten gesperrt.\nMüller & Söhne öffnen um 9 Uhr.",
+  "notes": []
+ },
+ {
+  "file": "ru_clean.png",
+  "lang": "ru",
+  "detected": "ru",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 5.9,
+  "flagged_words": 1,
+  "hyp": "Москва является столицей России.\nЗавтра будет солнечный день.",
+  "notes": []
+ },
+ {
+  "file": "table_grid.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 4.9,
+  "flagged_words": 0,
+  "hyp": "Item Qty Price\nPencil 12 3.40\nNotebook 5 12.00\nEraser 8 1.60",
+  "notes": []
+ },
+ {
+  "file": "zh_clean.png",
+  "lang": "zh",
+  "detected": "zh",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": null,
+  "seconds": 4.7,
+  "flagged_words": 9,
+  "hyp": "今天的天气非常好。\n我们明天去北京参加会议。",
+  "notes": []
+ }
+]

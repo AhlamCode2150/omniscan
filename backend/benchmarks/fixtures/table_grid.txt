@@ -1,0 +1,4 @@
+Item Qty Price
+Pencil 12 3.40
+Notebook 5 12.00
+Eraser 8 1.60

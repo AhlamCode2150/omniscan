@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+opencv-python-headless
+pillow
+pymupdf
+rapidocr
+onnxruntime
+python-docx
+httpx
+jiwer
+pytest

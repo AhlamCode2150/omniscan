@@ -1,0 +1,222 @@
+[
+ {
+  "file": "ar_clean.png",
+  "lang": "ar",
+  "detected": "ar",
+  "mode": "printed",
+  "cer": 0.5675675675675675,
+  "wer": 0.8571428571428571,
+  "seconds": 18.4,
+  "flagged_words": 0,
+  "hyp": "مصر\nعاصمة\nهي\nالقاهرة\nاليوم\nجميل\nالطقس",
+  "notes": []
+ },
+ {
+  "file": "de_clean.png",
+  "lang": "de",
+  "detected": "de",
+  "mode": "printed",
+  "cer": 0.025,
+  "wer": 0.07142857142857142,
+  "seconds": 11.1,
+  "flagged_words": 0,
+  "hyp": "Die S\nStraße ist heute\nwegen\nBauarbeiten\ngesperrt.\nMüller & Söhne öffnen\num 9 Uhr.",
+  "notes": []
+ },
+ {
+  "file": "en_blurry.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.04142011834319527,
+  "wer": 0.03333333333333333,
+  "seconds": 9.3,
+  "flagged_words": 0,
+  "hyp": "The\nquick\nbrown\nfox\njumps\nover\nthe\nlazy\ndog.\nInvoice\n20418\nwas\nissued\non\n14\nMarch\n2024\nfor\n1,250.75\nd\nPlease\nsend\nthe\nsigned\ncontract\nto\nthe office\nbefore\nFriday.",
+  "notes": []
+ },
+ {
+  "file": "en_clean.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 8.0,
+  "flagged_words": 0,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dollars.\nPlease send the signed contract to the office before Friday.",
+  "notes": []
+ },
+ {
+  "file": "en_lowres.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.01775147928994083,
+  "wer": 0.03333333333333333,
+  "seconds": 7.6,
+  "flagged_words": 0,
+  "hyp": "The\nquick\nbrown\nfox\n jumps\nover\nthe\nlazy\ndog.\nInvoice\n20418\nwas\nissued\non\n14\nMarch\n2024\nfor\n1,250.75\ndolla\nPlease\nsend\nthe\nsigned\ncontract\nto\nthe office\nbefore\nFriday.",
+  "notes": []
+ },
+ {
+  "file": "en_perspective_photo.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.005917159763313609,
+  "wer": 0.03333333333333333,
+  "seconds": 5.4,
+  "flagged_words": 1,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dollars\nPlease send the signed contract to the office before Friday.",
+  "notes": []
+ },
+ {
+  "file": "en_rotated.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.011834319526627219,
+  "wer": 0.03333333333333333,
+  "seconds": 6.6,
+  "flagged_words": 0,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dollar\nPlease send the signed contract to the office before Friday.",
+  "notes": []
+ },
+ {
+  "file": "es_clean.png",
+  "lang": "es",
+  "detected": "es",
+  "mode": "printed",
+  "cer": 0.0273972602739726,
+  "wer": 0.07692307692307693,
+  "seconds": 6.7,
+  "flagged_words": 1,
+  "hyp": "El niño comió\npiñas en la montaña.\n¿Dónde está la biblioteca más\ns cercana?",
+  "notes": []
+ },
+ {
+  "file": "fr_clean.png",
+  "lang": "fr",
+  "detected": "fr",
+  "mode": "printed",
+  "cer": 0.29333333333333333,
+  "wer": 0.26666666666666666,
+  "seconds": 12.3,
+  "flagged_words": 0,
+  "hyp": "Le café de l'été est très agréable à Genève.\nOù\nhier soir\nêtes-vous allés",
+  "notes": []
+ },
+ {
+  "file": "hw_cursive_synthetic.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "handwriting",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 153.9,
+  "flagged_words": 0,
+  "hyp": "Dear Sam, thanks for the notes from Tuesday.  \nMeet me at 4:30 near the old library.  \nBring the red folder and two pens.",
+  "notes": [
+   "Handwriting was transcribed by a single vision-language model. It provides no per-word confidence and was not independently verified; words marked [?] were declared illegible by the model."
+  ]
+ },
+ {
+  "file": "hw_inkfree_synthetic.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "handwriting",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 127.2,
+  "flagged_words": 0,
+  "hyp": "Dear Sam, thanks for the notes from Tuesday.  \nMeet me at 4:30 near the old library.  \nBring the red folder and two pens.",
+  "notes": [
+   "Handwriting was transcribed by a single vision-language model. It provides no per-word confidence and was not independently verified; words marked [?] were declared illegible by the model."
+  ]
+ },
+ {
+  "file": "ja_clean.png",
+  "lang": "zh",
+  "detected": "zh",
+  "mode": "printed",
+  "cer": 0.037037037037037035,
+  "wer": null,
+  "seconds": 113.6,
+  "flagged_words": 0,
+  "hyp": "今日はとても良い天気です。\n明日は東京で会議があります",
+  "notes": []
+ },
+ {
+  "file": "ko_clean.png",
+  "lang": "ko",
+  "detected": "ko",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": null,
+  "seconds": 16.0,
+  "flagged_words": 0,
+  "hyp": "오늘은 날씨가 아주 좋습니다.\n내일 서울에서 회의가\n있습니다.",
+  "notes": []
+ },
+ {
+  "file": "math_unicode.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.13953488372093023,
+  "wer": 0.46153846153846156,
+  "seconds": 7.8,
+  "flagged_words": 3,
+  "hyp": "x2 + y2 = z2\nE = mc2\nH2O and CO2 are common",
+  "notes": []
+ },
+ {
+  "file": "pdf_scanned_2p.pdf",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 15.2,
+  "flagged_words": 1,
+  "hyp": "The quick brown fox jumps over the lazy dog.\nInvoice 20418 was issued on 14 March 2024 for 1,250.75 dollars.\nPlease send the signed contract to the office before Friday.\n\nDie Straße ist heute wegen Bauarbeiten gesperrt.\nMüller & Söhne öffnen um 9 Uhr.",
+  "notes": []
+ },
+ {
+  "file": "ru_clean.png",
+  "lang": "ru",
+  "detected": "ru",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 20.1,
+  "flagged_words": 0,
+  "hyp": "Москва\nявляется\nстолицей\nРоссии.\nЗавтра\nбудет\nсолнечный\nдень.",
+  "notes": []
+ },
+ {
+  "file": "table_grid.png",
+  "lang": "en",
+  "detected": "en",
+  "mode": "printed",
+  "cer": 0.7166666666666667,
+  "wer": 0.6666666666666666,
+  "seconds": 12.8,
+  "flagged_words": 0,
+  "hyp": "Item\nPencil\nNotebook\nEraser\nQty\nPrice\n12\n3.40\n12.00\n5\n1.60\n8",
+  "notes": []
+ },
+ {
+  "file": "zh_clean.png",
+  "lang": "zh",
+  "detected": "zh",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": null,
+  "seconds": 11.8,
+  "flagged_words": 0,
+  "hyp": "今天的天气非常好。\n我们明天去北京参加会议。",
+  "notes": []
+ }
+]

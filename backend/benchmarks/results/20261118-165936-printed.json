@@ -1,0 +1,14 @@
+[
+ {
+  "file": "ar_clean.png",
+  "lang": "ar",
+  "detected": "ar",
+  "mode": "printed",
+  "cer": 0.0,
+  "wer": 0.0,
+  "seconds": 13.3,
+  "flagged_words": 0,
+  "hyp": "القاهرة هي عاصمة مصر\nالطقس جميل اليوم",
+  "notes": []
+ }
+]
