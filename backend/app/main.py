@@ -1,5 +1,6 @@
 """OMNISCAN API (FastAPI). Run:  uvicorn app.main:app --port 8000"""
 import asyncio
+import hmac
 import re
 import threading
 import time
@@ -38,6 +39,16 @@ async def lifespan(app):
 
 app = FastAPI(title="OMNISCAN", version="1.0", lifespan=lifespan)
 app.add_middleware(CORSMiddleware, allow_origins=config.CORS_ORIGINS, allow_methods=["*"], allow_headers=["*"])
+
+
+@app.middleware("http")
+async def require_secret(request: Request, call_next):
+    """Shared-secret gate: when OMNISCAN_API_SECRET is set, only callers that know it (our Netlify proxy) get in."""
+    if config.API_SECRET and request.url.path != "/api/health":
+        sent = request.headers.get("x-omniscan-key", "")
+        if not hmac.compare_digest(sent.encode(), config.API_SECRET.encode()):
+            return JSONResponse({"detail": "Unauthorized"}, status_code=401)
+    return await call_next(request)
 
 
 @app.middleware("http")

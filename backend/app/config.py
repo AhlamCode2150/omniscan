@@ -25,6 +25,7 @@ OLLAMA_VLM_MODEL = _env("OMNISCAN_VLM_MODEL", "qwen2.5vl:3b")
 VLM_TIMEOUT_S = int(_env("OMNISCAN_VLM_TIMEOUT", "600"))
 ANTHROPIC_API_KEY = _env("ANTHROPIC_API_KEY", "")                # never sent to the browser
 ANTHROPIC_MODEL = _env("OMNISCAN_ANTHROPIC_MODEL", "claude-sonnet-5-5")
+API_SECRET = _env("OMNISCAN_API_SECRET", "")                    # when set, every /api request must carry it
 CORS_ORIGINS = [o for o in _env("OMNISCAN_CORS", "http://localhost:3000,http://127.0.0.1:3000").split(",") if o]
 ALLOWED_EXT = {".png", ".jpg", ".jpeg", ".webp", ".bmp", ".tif", ".tiff", ".pdf"}
 
